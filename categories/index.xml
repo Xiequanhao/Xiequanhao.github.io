@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Venus-Orbit</title>
+        <link>https://xiequanhao.github.io/venus-orbit/categories/</link>
+        <description>Recent content in Categories on Venus-Orbit</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>venus-orbit</copyright>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://xiequanhao.github.io/venus-orbit/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Syntax</title>
+        <link>https://xiequanhao.github.io/venus-orbit/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xiequanhao.github.io/venus-orbit/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://xiequanhao.github.io/venus-orbit/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xiequanhao.github.io/venus-orbit/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://xiequanhao.github.io/venus-orbit/categories/test/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xiequanhao.github.io/venus-orbit/categories/test/</guid>
+        <description>&lt;img src="https://xiequanhao.github.io/venus-orbit/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>Test With Whitespaces</title>
+        <link>https://xiequanhao.github.io/venus-orbit/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xiequanhao.github.io/venus-orbit/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
