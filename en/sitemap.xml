@@ -2,194 +2,204 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiequanhao.github.io/venus-orbit/</loc>
+    <loc>https://venus-orbit.com/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://venus-orbit.com/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
-                href="https://xiequanhao.github.io/venus-orbit/ja/"
+                href="https://venus-orbit.com/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/"
+                href="https://venus-orbit.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://xiequanhao.github.io/venus-orbit/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/"
+                href="https://venus-orbit.com/zh-tw/"
                 />
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/archives/</loc>
+    <loc>https://venus-orbit.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/page/</loc>
+    <loc>https://venus-orbit.com/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/page/"
+                hreflang="en-us"
+                href="https://venus-orbit.com/page/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/page/"
+                hreflang="zh-cn"
+                href="https://venus-orbit.com/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/categories/</loc>
+    <loc>https://venus-orbit.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://venus-orbit.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
-                href="https://xiequanhao.github.io/venus-orbit/ja/categories/"
+                href="https://venus-orbit.com/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/categories/"
+                href="https://venus-orbit.com/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://xiequanhao.github.io/venus-orbit/zh-tw/categories/"
+                href="https://venus-orbit.com/zh-tw/categories/"
                 />
+  </url><url>
+    <loc>https://venus-orbit.com/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/p/markdown-syntax-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/post/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/categories/"
+                hreflang="en-us"
+                href="https://venus-orbit.com/post/"
                 />
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://xiequanhao.github.io/venus-orbit/ja/post/"
+                href="https://venus-orbit.com/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/post/"
+                href="https://venus-orbit.com/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://xiequanhao.github.io/venus-orbit/zh-tw/post/"
+                href="https://venus-orbit.com/zh-tw/post/"
                 />
+  </url><url>
+    <loc>https://venus-orbit.com/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/post/"
+                hreflang="en-us"
+                href="https://venus-orbit.com/tags/"
                 />
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://xiequanhao.github.io/venus-orbit/ja/tags/"
+                href="https://venus-orbit.com/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/tags/"
+                href="https://venus-orbit.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://xiequanhao.github.io/venus-orbit/zh-tw/tags/"
+                href="https://venus-orbit.com/zh-tw/tags/"
+                />
+  </url><url>
+    <loc>https://venus-orbit.com/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/p/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/tag-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venus-orbit.com/categories/test/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://venus-orbit.com/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/tags/"
+                hreflang="zh-tw"
+                href="https://venus-orbit.com/zh-tw/categories/test/"
                 />
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://xiequanhao.github.io/venus-orbit/ja/categories/test/"
+                href="https://venus-orbit.com/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://xiequanhao.github.io/venus-orbit/zh-tw/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/categories/test/"
+                href="https://venus-orbit.com/zh-cn/categories/test/"
                 />
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/categories/test-with-whitespaces/</loc>
+    <loc>https://venus-orbit.com/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/text/</loc>
+    <loc>https://venus-orbit.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/p/math-typesetting/</loc>
+    <loc>https://venus-orbit.com/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/tags/emoji/</loc>
+    <loc>https://venus-orbit.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/p/emoji-support/</loc>
+    <loc>https://venus-orbit.com/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/about/</loc>
+    <loc>https://venus-orbit.com/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://xiequanhao.github.io/venus-orbit/zh-cn/%E5%85%B3%E4%BA%8E/"
+                hreflang="en-us"
+                href="https://venus-orbit.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://xiequanhao.github.io/venus-orbit/about/"
+                hreflang="zh-cn"
+                href="https://venus-orbit.com/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/links/</loc>
+    <loc>https://venus-orbit.com/links/</loc>
   </url><url>
-    <loc>https://xiequanhao.github.io/venus-orbit/search/</loc>
+    <loc>https://venus-orbit.com/search/</loc>
+  </url><url>
+    <loc>https://venus-orbit.com/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
+  </url><url>
+    <loc>https://venus-orbit.com/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/%D9%86%D8%B5/</loc>
+  </url><url>
+    <loc>https://venus-orbit.com/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
   </url>
 </urlset>
